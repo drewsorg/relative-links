@@ -1,5 +1,18 @@
 # relative-links
 
+<h2>Regular text</h2>
+
+For reference, URLS are referenced three different ways:
+```
+[[Direct]](https://github.com/drewsorg/relative-links/blob/main/folder/text.md) 
+[[Root]](/folder/text.md) 
+[[Relative]](./folder/text.md)
+```
+
+[[Direct]](https://github.com/drewsorg/relative-links/blob/main/folder/text.md) 
+[[Root]](/folder/text.md) 
+[[Relative]](./folder/text.md)
+
 <h2>Headers</h2>
 
 # [[Direct]](https://github.com/drewsorg/relative-links/blob/main/folder/text.md) [[Root]](/folder/text.md) [[Relative]](./folder/text.md)
